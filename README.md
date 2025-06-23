@@ -178,16 +178,16 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **Autor:** Seu Nome
+- **Autor:** m4ntonio
 - **Email:** seu.email@exemplo.com
-- **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-perfil)
-- **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/m4ntonio/)
+- **GitHub:** [@seu-usuario](https://github.com/m4ntonio73)
 
 ## 🙏 Agradecimentos
 
 - [Streamlit](https://streamlit.io) pela incrível framework
 - [LangChain](https://langchain.com) pela facilidade de integração com IA
-- [Google](https://google.com) pela API Gemini
+- [Google](https://aistudio.google.com) pela API Gemini
 - Comunidade open source pelos feedbacks e contribuições
 
 ---
