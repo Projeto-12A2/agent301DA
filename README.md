@@ -20,8 +20,6 @@ Uma aplicação web inteligente para análise de dados CSV e Notas Fiscais usand
 
 ![Demo Screenshot](https://boredlabs.epizy.com/agent301.png)
 
-*Adicione aqui uma captura de tela da sua aplicação*
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend:** Streamlit
