@@ -40,8 +40,8 @@ Uma aplicação web inteligente para análise de dados CSV e Notas Fiscais usand
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/agente-analise-dados.git
-cd agente-analise-dados
+git clone https://github.com/Projeto-12A2/agent301DA.git
+cd agent301DA
 ```
 
 2. **Instale as dependências:**
