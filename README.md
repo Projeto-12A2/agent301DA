@@ -16,7 +16,7 @@ Uma aplicação web inteligente para análise de dados CSV e Notas Fiscais usand
 - ✅ **Interface amigável** - Design responsivo e intuitivo
 - ✅ **Limpeza de arquivos** - Gerenciamento automático de arquivos temporários
 
-## 🚀 Demo
+## 🚀 Screenshot
 
 ![Demo Screenshot](https://boredlabs.epizy.com/agent301.png)
 
