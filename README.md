@@ -179,9 +179,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## 📞 Contato
 
 - **Autor:** m4ntonio
-- **Email:** seu.email@exemplo.com
-- **LinkedIn:** [seu-perfil](https://www.linkedin.com/in/m4ntonio/)
-- **GitHub:** [@seu-usuario](https://github.com/m4ntonio73)
+- **Email:** m4ntonio@yahoo.com.br
+- **LinkedIn:** [m4ntonio](https://www.linkedin.com/in/m4ntonio/)
+- **GitHub:** [@m4ntonio73](https://github.com/m4ntonio73)
 
 ## 🙏 Agradecimentos
 
